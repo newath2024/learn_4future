@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/z94+T3skqtoA8sfnsP7VrINHgIUogIfLvQpgvJvyZ1//nmOcrZ1Gh7MpCtG37AWSWNZUr2E8xkWXY/GBEafxg==",
+  "success": true,
+  "projectFilePath": "D:\\learn_4future\\Source code\\BkaShop\\BkaShop.Common\\BkaShop.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

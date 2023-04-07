@@ -1,0 +1,17 @@
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\BkaShop.Model.deps.json
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\BkaShop.Model.dll
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\BkaShop.Model.pdb
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.AssemblyInfoInputs.cache
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.AssemblyInfo.cs
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.csproj.CoreCompileInputs.cache
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.dll
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.pdb
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\System.Security.dll
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\bin\Debug\netstandard2.0\System.Security.xml
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.csproj.AssemblyReference.cache
+D:\learn_4future\Source code\BkaShop\BkaShop.Model\obj\Debug\netstandard2.0\BkaShop.Model.csproj.CopyComplete
